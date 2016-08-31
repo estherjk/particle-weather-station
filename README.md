@@ -13,9 +13,15 @@ Reference: [Make a Cloud Data Logger With the Particle Photon](https://www.openh
 
 ## Hardware configuration
 
-Go through the [Particle Photon Getting Started Guide](https://docs.particle.io/guide/getting-started/intro/photon/) to get your Photon up and running. Then, wire up the board. Here's a picture of the circuit:
+Go through the [Particle Photon Getting Started Guide](https://docs.particle.io/guide/getting-started/intro/photon/) to get your Photon up and running. Then, wire up the board.
+
+Here's a picture of the circuit:
 
 ![Circuit](https://raw.githubusercontent.com/drejkim/particle-weather-station/master/img/circuit.jpg)
+
+And, here's a schematic that makes the wiring a bit clearer:
+
+![Schematic](https://raw.githubusercontent.com/drejkim/particle-weather-station/master/img/particle-weather-station_bb.png)
 
 First, let's wire up the Photon:
 
